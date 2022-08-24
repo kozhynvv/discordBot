@@ -1,0 +1,2 @@
+[11236:18736:0824/200528.511:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = , status = 4, exit_code = 258
+[11236:18736:0824/200531.724:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
